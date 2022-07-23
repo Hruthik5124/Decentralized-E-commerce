@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Telsa Model S",
+    "price": "59,490",
+    "description": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates.",
+    "image_url": "https://i.imgur.com/XMe5Vae.jpg",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Telsa Model Y",
+    "price": "75,800",
+    "image_url": "https://i.imgur.com/9fwIx6r.jpg",
+    "description": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+    "filename": "Desktop-ModelY.jpg",
+    "hash": "QmRHXCE1W7VK4UtUepvJPXHc4R9C8CCdwuyWsDjXkcUNTe"
+  }
+]
